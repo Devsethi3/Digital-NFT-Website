@@ -17,7 +17,7 @@
   --primary-color: #ba6bff;
   --link-primary: #e7e7e7;
   --link-secondary: #c7c7c7;
-  --discover-card-sub-color: var(--discover-card-sub-color);
+  --discover-card-sub-color: #413151;
   --text-grey-color: #ffffff5e;
 
 
@@ -647,11 +647,11 @@ h3{
   color: var(--white-color);
   border: none;
   padding: 12px 24px; 
-   border-radius: var(--border-radius-5);
+  border-radius: var(--border-radius-5);
   outline: none;
   margin-block-end: 16px;
 }
-.newsletter .input-field::placeholder { color: #b58aff; }
+.newsletter .input-field::placeholder { color: #e7daff; }
 .newsletter .input-field:focus{ box-shadow: 0 1rem 2rem #321b46;}
 .newsletter .btn { margin-inline: auto; }
 .newsletter #bg-icon-1 {
